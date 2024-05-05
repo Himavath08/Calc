@@ -173,7 +173,8 @@ for (item of buttons) {
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-05 103849-1.png>)
+![Screenshot 2024-05-05 103849](https://github.com/Himavath08/Calc/assets/139110631/89521c78-0d2d-4e0a-add9-55c3f17f5d92)
+
 ![alt text](<Screenshot 2024-05-05 103900.png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
